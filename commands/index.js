@@ -4,3 +4,4 @@ module.exports = {
 	Help: require('./help'),
 	Commands: require('./commands'),
 };
+statusbargi
